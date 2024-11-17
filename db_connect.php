@@ -4,10 +4,10 @@ ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
 
 // modify these settings according to the account on your database server.
-$host = "localhost";
+$host = "d13xat1hwxt21t45.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
 $port = "3306";
-$username = "root";
-$user_pass = "root";
+$username = "fh6zwc9dfg8xa3kr";
+$user_pass = "caxjh0i4pqejtgg7";
 $database_in_use = "jokes_db";
 
 
